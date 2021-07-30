@@ -353,8 +353,6 @@ proxy-groups:
       - 🇯🇵 Japan-OS2-6-Rate:1.0
       - 🇯🇵 Japan-OS2-7-Rate:1.0
       - 🇯🇵 Japan-OS2-8-Rate:1.0
-      - 🇯🇵 Japan-V6-2-Rate:1.0
-      - 🇯🇵 Japan-V6-3-Rate:1.0
   - name: 🇺s 美国节点
     type: url-test
     url: http://www.gstatic.com/generate_204
